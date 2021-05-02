@@ -18,7 +18,7 @@ $config['db_username'] = '<db_username>';
 $config['db_password'] = '<db_password>';
 $config['db_name'] = 'disburse';
 ```
-The config BASE URL is located in */application/config/vars.php* so please change the BASE URL here.
+The config BASE URL is located in */application/config/config.php* so please change the BASE URL here.
 ```php
 $config['base_url'] = 'http://<your_base_url>/slightly-big-flip/';
 ```
