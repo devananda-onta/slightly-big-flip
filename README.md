@@ -7,6 +7,8 @@ Slightly-big Flip is a 3rd party created by Flip. The service handle a request f
 * Curl
 
 ## Config File
+Please edit both of these files after cloning the repository, thanks!
+
 The config file of this service is located in  */application/config/vars.php* so please change the config here.
 Here is the example of the config file :
 
