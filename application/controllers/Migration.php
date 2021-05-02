@@ -51,8 +51,9 @@ class Migration extends CI_Controller {
         'receipt' => array(
                 'type' => 'VARCHAR',
                 'constraint' => '255',
+                'null' => TRUE,
         ),
-        'timestamp' => array(
+        'time_served' => array(
                 'type' => 'TIMESTAMP',
                 'null' => TRUE,
         ),
